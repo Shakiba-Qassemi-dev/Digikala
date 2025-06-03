@@ -5,9 +5,9 @@ Digikala
 
 -👩‍💻 Developed by shakiba qassemi
 
--📆Created - April 2025
+-📆Created - june 2025
 
--🔧Technologies Used - Html , css ,tailwind
+-🔧Technologies Used - Html , css , Reactjs , Tailwind
 
 -✅Role - Frontend
 
