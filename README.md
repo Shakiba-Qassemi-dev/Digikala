@@ -1,6 +1,6 @@
 # Digikala
 Digikala
-![Image]()
+![Image](https://github.com/user-attachments/assets/71d94220-aefd-43aa-89d5-f9313ccdfb4a)
 - [Demo Project](https://digikala-gold.vercel.app/)
 
 -👩‍💻 Developed by shakiba qassemi
